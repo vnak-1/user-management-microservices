@@ -1,0 +1,12 @@
+{
+  "name": "user-management-microservices",
+  "version": "1.0.0",
+  "description": "5 microservices: API Gateway, Registration, Login, Admin, User",
+  "scripts": {
+    "install-all": "npm install && npm install --prefix api-gateway && npm install --prefix registration-service && npm install --prefix login-service && npm install --prefix admin-service && npm install --prefix user-service",
+    "start": "concurrently -n GATEWAY,REGISTER,LOGIN,ADMIN,USER -c blue,green,yellow,magenta,cyan \"npm start --prefix api-gateway\" \"npm start --prefix registration-service\" \"npm start --prefix login-service\" \"npm start --prefix admin-service\" \"npm start --prefix user-service\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
