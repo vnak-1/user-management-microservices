@@ -16,12 +16,6 @@ const SERVICES = {
   user: process.env.USER_URL,
 };
 
-/**
- * Generic forwarder.
- * Rebuilds the incoming request against the target microservice and adds:
- *   x-internal-key -> proves the call came from the Gateway
- *   x-user-*       -> the identity the Gateway already verified from the JWT
- */
 const forward = (target, label) => async (req, res) => {
   try {
     const response = await axios({
