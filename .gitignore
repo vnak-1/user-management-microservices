@@ -1,7 +1,7 @@
 node_modules/
 npm-debug.log*
 .DS_Store
-README.md
+README1.md
 postmam
 atlas-credentials.env
-.env
+**/.env
