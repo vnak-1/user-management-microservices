@@ -19,9 +19,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/register/userregister",
+              "raw": "http://54.158.92.43:3000/register/userregister",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "register",
@@ -51,9 +51,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/register/userregister",
+              "raw": "http://54.158.92.43:3000/register/userregister",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "register",
@@ -83,9 +83,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/register/userregister",
+              "raw": "http://54.158.92.43:3000/register/userregister",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "register",
@@ -120,9 +120,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/auth/login",
+              "raw": "http://54.158.92.43:3000/auth/login",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "auth",
@@ -165,9 +165,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/auth/login",
+              "raw": "http://54.158.92.43:3000/auth/login",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "auth",
@@ -210,9 +210,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/auth/login",
+              "raw": "http://54.158.92.43:3000/auth/login",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "auth",
@@ -242,9 +242,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/auth/login",
+              "raw": "http://54.158.92.43:3000/auth/login",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "auth",
@@ -283,9 +283,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/admin/searchuser?query=john",
+              "raw": "http://54.158.92.43:3000/admin/searchuser?query=john",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "admin",
@@ -316,9 +316,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/admin/searchuser?query=zzzzz",
+              "raw": "http://54.158.92.43:3000/admin/searchuser?query=zzzzz",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "admin",
@@ -349,9 +349,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/admin/viewalluser",
+              "raw": "http://54.158.92.43:3000/admin/viewalluser",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "admin",
@@ -376,9 +376,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/admin/deluser",
+              "raw": "http://54.158.92.43:3000/admin/deluser",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "admin",
@@ -417,9 +417,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/user/viewprofile",
+              "raw": "http://54.158.92.43:3000/user/viewprofile",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "user",
@@ -444,9 +444,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/user/updateprofile",
+              "raw": "http://54.158.92.43:3000/user/updateprofile",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "user",
@@ -481,9 +481,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/admin/viewalluser",
+              "raw": "http://54.158.92.43:3000/admin/viewalluser",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "admin",
@@ -504,9 +504,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/user/viewprofile",
+              "raw": "http://54.158.92.43:3000/user/viewprofile",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "user",
@@ -531,9 +531,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/admin/viewalluser",
+              "raw": "http://54.158.92.43:3000/admin/viewalluser",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "admin",
@@ -558,9 +558,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/user/viewprofile",
+              "raw": "http://54.158.92.43:3000/user/viewprofile",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "user",
@@ -585,9 +585,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/user/viewprofile",
+              "raw": "http://54.158.92.43:3000/user/viewprofile",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "user",
@@ -612,9 +612,9 @@
               }
             ],
             "url": {
-              "raw": "{{baseUrl}}/admin/viewalluser",
+              "raw": "http://54.158.92.43:3000/admin/viewalluser",
               "host": [
-                "{{baseUrl}}"
+                "http://54.158.92.43:3000"
               ],
               "path": [
                 "admin",
