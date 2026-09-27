@@ -2,7 +2,7 @@ node_modules/
 npm-debug.log*
 .DS_Store
 README1.md
-postmam
+postman/
 atlas-credentials.env
 **/.env
 frontend/
