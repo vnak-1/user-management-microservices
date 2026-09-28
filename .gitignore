@@ -6,4 +6,5 @@ postman/
 atlas-credentials.env
 **/.env
 frontend/
+.claude/
 
